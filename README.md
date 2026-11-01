@@ -64,73 +64,52 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Works AI (Trusted Works) provides an integrated platform that automates staffing and scheduling for hospitals and health systems. The solution offers demand forecasting, schedule optimization, extended workforce orchestration, and shift‑fill automation to balance clinical coverage, productivity, and clinician preferences.
+ShiftRx is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by work-bench) and added to the network as a stub for full-pipeline profiling.
 
-**Areas:** Staffing · Scheduling · Healthcare · Workforce Optimization · Demand Forecasting · Automation
+**Areas:** Company
 
 ## ShiftRx on APIs.io
 
 Everything profiled for ShiftRx is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/shiftrx/](https://apis.io/providers/shiftrx/)** — or go straight to one of the APIs or properties below.
 
+### APIs (1)
+
+- [ShiftRx API](https://apis.io/apis/shiftrx/shiftrx-api/) — ShiftRx provides staffing and scheduling optimization for health systems.
+
 ### Published properties
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-#### Security (1)
+#### Security (2)
 
 Authentication, trust centre, and vulnerability disclosure.
 
+- [Shiftrx Authentication](https://apis.io/security/shiftrx/shiftrx-authentication/)
 - [Shiftrx Domain Security](https://apis.io/security/shiftrx/shiftrx-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Shiftrx Scopes](https://apis.io/scopes/shiftrx/shiftrx-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Shiftrx Plans Pricing](https://apis.io/plans/shiftrx/shiftrx-plans-pricing/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://www.shiftrx.io/)
 - [GitHub](https://github.com/ShiftRx)
 
 ## API Evangelist rating
 
-**Kin Score 6.7** — minimal · rubric 0.25.0 · scored 2026-10-30
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-| Facet | Score |
-|---|---|
-| Discoverability | 44.6 |
-| Contract quality | 0.0 |
-| Contract governance | 0.0 |
-| Operational transparency | 5.3 |
-| Developer ergonomics | 0.0 |
-| Access clarity | 13.2 |
-
-**Agent readiness 3.1** — human-only
-
-| Agent-readiness dimension | Result |
-|---|---|
-| Spec Presence | — |
-| Agentic Access | — |
-| Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
-| Auth Clarity | — |
-| Idempotency | — |
-| Error Semantics | — |
-| OpenAPI Examples | — |
-| Rate Limit Signal | — |
-| Event Surface Described | — |
-| Agent Skills | — |
-| Well Known Catalog | — |
-| Consent Identity | — |
-| Agent Card | — |
-| Dry Run Mode | — |
-| Delegated Identity | — |
-| Protected Resource Metadata | — |
-| Dynamic Client Registration | — |
-| Agentic Commerce | — |
-| Pagination Ratio | na |
-| Operation Distinctiveness | na |
-
-**Regulatory alignment 4.7** — Health
-
-The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/shiftrx/](https://apis.io/providers/shiftrx/).
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
 ## How this profile is made
 
